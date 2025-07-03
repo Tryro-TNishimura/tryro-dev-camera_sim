@@ -243,3 +243,13 @@ Received Import Request.
 Start importing Assets/SEC_CAM/Prehubs/SecurityCamera_ch1 (1) 1.prefab using Guid(6d04415f93118ab4faa13b913d80fb3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7df5a9a92744e25f0f2b4748353658b1') in 0.5487474 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 96
 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 11.98 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.11 ms.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3056 unused Assets / (3.7 MB). Loaded Objects now: 3630.
+Memory consumption went from 127.6 MB to 123.9 MB.
+Total: 209.373200 ms (FindLiveObjects: 2.618600 ms CreateObjectMapping: 0.306700 ms MarkObjects: 202.636200 ms  DeleteObjects: 3.799000 ms)
+
+Prepare: number of updated asset objects reloaded= 2

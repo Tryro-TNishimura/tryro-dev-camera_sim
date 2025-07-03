@@ -779,3 +779,13 @@ Received Import Request.
 Start importing Assets/Samples/XR Interaction Toolkit/3.0.8/Starter Assets/Scripts/ObjectSpawner.cs using Guid(956dd6cf70eaca449a45b6a95b96c8c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c85851caca987f4441f2ee3893bb2165') in 0.0004962 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 11.73 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.12 ms.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3056 unused Assets / (4.0 MB). Loaded Objects now: 3619.
+Memory consumption went from 112.9 MB to 108.9 MB.
+Total: 208.376800 ms (FindLiveObjects: 2.246100 ms CreateObjectMapping: 0.291200 ms MarkObjects: 202.699200 ms  DeleteObjects: 3.135600 ms)
+
+Prepare: number of updated asset objects reloaded= 2
