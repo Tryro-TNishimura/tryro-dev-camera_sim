@@ -1,0 +1,2 @@
+D:\tryro-dev-camera_sim\unity_source\Demo_Parking\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\tryro-dev-camera_sim\unity_source\Demo_Parking\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

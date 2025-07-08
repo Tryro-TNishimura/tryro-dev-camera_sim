@@ -1,3 +1,18 @@
-**/Cam/
-**/Demo_Parking/
-**/VR_UI_Project/
+# Unity
+[Bb]uild/
+Library/
+Temp/
+obj/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+*.pidb
+*.booproj
+*.otron
+*.mdb
+*. 옛날파일(backup)
+.vs/
+.vscode/
+Assets/AssetStoreTools/
+Assets/Packages/

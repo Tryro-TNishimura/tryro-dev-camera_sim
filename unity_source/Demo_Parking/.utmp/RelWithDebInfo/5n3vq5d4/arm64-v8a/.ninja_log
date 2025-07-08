@@ -1,0 +1,10 @@
+# ninja log v5
+68	4912	7732094818489485	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b50dd711d4f499fe
+42	4927	7732094819058029	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	74072f8c207c1d9d
+1	5127	7732094821222760	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d1f5659287dea063
+56	5194	7732094822051973	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	7d1da1657226fa74
+105	5321	7732094823293286	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	1327d53477f77fc6
+92	5490	7732094824971492	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	8b5d6709965d71cd
+80	5921	7732094829323743	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	9321d5e4684b27f7
+29	5992	7732094830031369	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f2e553420b7ad6f5
+5993	6291	7732094833031635	D:/tryro-dev-camera_sim/unity_source/Demo_Parking/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5n3vq5d4/obj/arm64-v8a/libgame.so	f81544ee3d9540d3
